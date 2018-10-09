@@ -1,0 +1,104 @@
+.cvglobal{
+    width: 80%;
+    margin: 10%;
+    font-size: 1vw;
+}
+
+h1, h2{
+    margin-left: 1.5%;
+}
+
+.BLOC1{
+    width: 80%;
+    float: left;
+    left:11%;
+    background-color: lightskyblue;
+    margin-bottom: 5%;
+}
+
+#facebook{
+    width: 20px;
+}
+
+#twitter{
+    width: 20px;
+}
+#linkedin{
+    width: 20px;
+}
+
+#PhotoSophie{
+    width: 10%;
+    float: right;
+    margin: 5%;
+}
+
+#coordonnées{
+    width: 50%;
+    float: left;
+    margin-left: 1.5%;
+}
+
+#Réseaux{
+    float: left;
+}
+
+.BLOC2{
+    width: 80%;
+    float: left;
+    background-color: lightskyblue;
+    margin-bottom: 5%;
+}
+
+#pro{
+    clear: both;
+}
+
+#dates, #dates2{
+    width: 30%;
+    margin-left: 1.5%;
+}
+
+#Experiencespro{
+    margin-top: -18%;
+    width: 90%;
+    float: right;
+    margin-left:5%;
+}
+
+.BLOC3{
+    width: 80%;
+    float: left;
+    background-color: lightskyblue;
+    margin-bottom: 5%;
+}
+
+#sco{
+    clear: both;
+}
+
+#parcoursScolaire{
+    float: right;
+    width: 90%;
+    margin-top: -33%;
+}
+.BLOC4{
+    width: 80%;
+    float: left;
+    background-color: lightskyblue;
+    margin-bottom: 5%;
+}
+
+#Compétences{
+    clear: both;
+}
+
+#langues{
+    float: left;
+    margin-left: 5%;
+}
+
+#Informatique{
+    float: right;
+    margin-right: 50%
+}
